@@ -1,0 +1,21 @@
+{
+  "name": "f39516046/cls",
+  "description": "Tencent Cloud Log Service",
+  "keywords": ["cls"],
+  "type": "library",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+        "name": "Eric Fu"
+    },
+  ],
+  "require": {
+      "google/protobuf": "^3.9",
+      "swlib/saber":"*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Cls\\": "src"
+    }
+  }
+}
