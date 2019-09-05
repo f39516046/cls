@@ -7,7 +7,7 @@
   "authors": [
     {
         "name": "Eric Fu"
-    },
+    }
   ],
   "require": {
       "google/protobuf": "^3.9",
